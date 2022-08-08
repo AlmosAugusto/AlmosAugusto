@@ -1,11 +1,11 @@
-Bem vindo, me chamo **Almos Augusto**, sou de Belo Horizonte|MG,🇧🇷 e atualmente sou pessoa estudante na **Trybe** 🚀.
+**Bem vindo**!! Me chamo **Almos Augusto**, sou de Belo Horizonte|MG 🇧🇷 e atualmente sou pessoa estudante na **Trybe** 🚀.
 
 <h4> 👨🏻‍💻 &nbsp;About Me</h4>
 
--  🇭🇺 : Meu nome vem de descendência Húngara
 -  🎓 : Engenheiro Mecânico🔧      
--      
+-  💻 : Desenvolvedor Web BackEnd Junior 
 -  👍: Jogar 🎮 | Futebol ⚽ | ler 📚
+-  🇭🇺 : Meu nome vem de descendência Húngara
 <div align="center">
   <a href="https://github.com/AlmosAugusto">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=AlmosAugusto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -21,13 +21,17 @@ Bem vindo, me chamo **Almos Augusto**, sou de Belo Horizonte|MG,🇧🇷 e atual
   <img title="Docker"align="center" alt="Almos-DOCKER" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img title="Jest"align="center" alt="Almos-JEST" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img title="Node"align="center" alt="Almos-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img title="MySQL"align="center" alt="Almos-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img title="MongoDB"align="center" alt="Almos-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img title="Mocha"align="center" alt="Almos-Mocha" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
-  
-  
-          
  </div>
- 
+  <div style="display: inline_block"><br>
+ <img title="VScode"align="center" alt="Almos-VScod" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+ <img title="Slack"align="center" alt="Almos-Slack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
+ <img title="Linux"align="center" alt="Almos-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+    
+  </div>
+  
  ##
  
 <div> 
