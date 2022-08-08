@@ -2,7 +2,7 @@
 
 <h4> 👨🏻‍💻 &nbsp;About Me</h4>
 
--  🎓 : Engenheiro Mecânico🔧      
+-  🎓 : Engenheiro Mecânico 🔧      
 -  💻 : Desenvolvedor Web BackEnd Junior 
 -  👍: Jogar 🎮 | Futebol ⚽ | ler 📚
 -  🇭🇺 : Meu nome vem de descendência Húngara
