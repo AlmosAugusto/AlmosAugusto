@@ -5,7 +5,7 @@
 -  🎓 : Engenheiro Mecânico 🔧      
 -  💻 : Desenvolvedor Web BackEnd Junior 
 -  👍: Jogar 🎮 | Futebol ⚽ | ler 📚
--  🇭🇺 : Meu nome vem de descendência Húngara
+-  🇭🇺 : Meu nome vem de descendência Húngara 🇭🇺
 <div align="center">
   <a href="https://github.com/AlmosAugusto">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=AlmosAugusto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
