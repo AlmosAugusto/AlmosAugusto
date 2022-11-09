@@ -1,10 +1,10 @@
 **Bem vindo**!! Me chamo **Almos Augusto**, sou de Belo Horizonte|MG 🇧🇷 e atualmente sou pessoa estudante na **Trybe** 🚀.
 
 <h4> 👨🏻‍💻 &nbsp;About Me</h4>
-
--  🎓 : Engenheiro Mecânico 🔧      
+      
 -  💻 : Desenvolvedor Web BackEnd Junior 
 -  👍: Jogar 🎮 | Futebol ⚽ | ler 📚
+-  -  🎓 : Engenheiro Mecânico 🔧
 -  🇭🇺 : Meu nome vem de descendência Húngara 🇭🇺
 <div align="center">
   <a href="https://github.com/AlmosAugusto">
