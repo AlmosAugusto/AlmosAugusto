@@ -4,7 +4,7 @@
       
 -  💻 : Desenvolvedor Web BackEnd Junior 
 -  👍: Jogar 🎮 | Futebol ⚽ | ler 📚
--  -  🎓 : Engenheiro Mecânico 🔧
+-  🎓 : Engenheiro Mecânico 🔧
 -  🇭🇺 : Meu nome vem de descendência Húngara 🇭🇺
 <div align="center">
   <a href="https://github.com/AlmosAugusto">
