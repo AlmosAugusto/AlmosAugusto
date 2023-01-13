@@ -12,8 +12,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmosAugusto)](https://github.com/anuraghazra/github-readme-stats)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AlmosAugusto&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Almos's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmosAugusto&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
   <h3> 🛠 &nbsp;Stacks and Tools</h3>
    <img title="JavaScript"align="center" alt="Almos-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img title="TypeScript"align="center" alt="Almos-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
