@@ -2,7 +2,7 @@
 
 <h4> 👨🏻‍💻 &nbsp;About Me</h4>
       
--  💻 : Desenvolvedor Web BackEnd Junior 
+-  💻 : Desenvolvedor Web FullStack Jr.
 -  👍: Jogar 🎮 | Futebol ⚽ | ler 📚
 -  🎓 : Engenheiro Mecânico 🔧
 -  🇭🇺 : Meu nome vem de descendência Húngara 🇭🇺
