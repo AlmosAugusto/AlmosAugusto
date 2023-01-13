@@ -6,12 +6,7 @@
 -  👍: Jogar 🎮 | Futebol ⚽ | ler 📚
 -  🎓 : Engenheiro Mecânico 🔧
 -  🇭🇺 : Meu nome vem de descendência Húngara 🇭🇺
-<div align="center">
-  <a href="https://github.com/AlmosAugusto">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=AlmosAugusto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmosAugusto&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmosAugusto)](https://github.com/anuraghazra/github-readme-stats)
   <h3> 🛠 &nbsp;Stacks and Tools</h3>
    <img title="JavaScript"align="center" alt="Almos-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img title="TypeScript"align="center" alt="Almos-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
