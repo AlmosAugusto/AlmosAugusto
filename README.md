@@ -11,7 +11,7 @@
       [![Almos's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmosAugusto)](https://github.com/anuraghazra/github-readme-stats)
 
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmosAugusto)](https://github.com/anuraghazra/github-readme-stats)
-
+<div
   <h3> 🛠 &nbsp;Stacks and Tools</h3>
    <img title="JavaScript"align="center" alt="Almos-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img title="TypeScript"align="center" alt="Almos-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
