@@ -10,6 +10,8 @@
 
 [![Almos's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmosAugusto)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmosAugusto)](https://github.com/anuraghazra/github-readme-stats)
+
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AlmosAugusto&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Almos's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmosAugusto&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
   <h3> 🛠 &nbsp;Stacks and Tools</h3>
